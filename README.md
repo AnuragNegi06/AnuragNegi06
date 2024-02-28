@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnuragNegi06
 - 👀 I’m interested in ML and web development.
-- 🌱 I’m proficient at c++ and c.
+- 🌱 I’m proficient in c++ and c.
 - 💞️ I’m looking for internships/experiences in real world projects.
 - 📫 How to reach me -  anuragnegi6088@gmail.com /  94557718146 
 
