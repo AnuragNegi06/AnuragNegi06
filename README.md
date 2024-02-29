@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnuragNegi06
+- 👋 Hi, I’m Anurag Negi
 - 👀 I’m interested in ML and web development.
 - 🌱 I’m proficient in c++ and c.
 - 💞️ I’m looking for internship/experience and contribution in real world projects.
