@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anurag Negi
 - 👀 I’m interested in ML and web development.
-- 🌱 I’m proficient in c++ and c.
+- 🌱 I’m proficient in c,c++ and JavaScript.
 - 💞️ I’m looking for internship/experience and contribution in real world projects.
 - 📫 How to reach me -  anuragnegi6088@gmail.com /  9557718146 
 
