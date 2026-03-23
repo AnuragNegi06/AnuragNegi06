@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Anurag Negi GitHub Banner" />
+</p>
 # 💫 About Me:
 👋 Hi, I’m Anurag Negi<br>👀 I’m interested in Full Stack web-development(MERN).<br>🌱 I’m proficient in HTML, CSS, JavaScript, Python, C++ and have knowledge of NodeJS, mongodb etc..<br>💞️ I’m looking for experience and contribution in real world projects.
 
