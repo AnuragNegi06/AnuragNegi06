@@ -1,18 +1,61 @@
+<h1 align="center">Hi 👋, I'm Anurag Negi</h1>
+<h3 align="center">Full-Stack Developer | MERN Enthusiast | Tech Explorer</h3>
+
 <p align="center">
   <img src="banner.png" alt="Anurag Negi GitHub Banner" />
 </p>
-# 💫 About Me:
-👋 Hi, I’m Anurag Negi<br>👀 I’m interested in Full Stack web-development(MERN).<br>🌱 I’m proficient in HTML, CSS, JavaScript, Python, C++ and have knowledge of NodeJS, mongodb etc..<br>💞️ I’m looking for experience and contribution in real world projects.
-
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnuragNegi06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AnuragNegi06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragNegi06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnuragNegi06&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+I'm a passionate Full-Stack Developer with hands-on experience in building scalable web applications using **JavaScript, ReactJS, NodeJS, MongoDB, and SQL**.  
+I enjoy solving real-world problems through code and continuously expanding my knowledge in **data science** and **AI**.  
+Currently seeking opportunities to contribute to impactful projects and grow professionally.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** C++, Python, JavaScript, HTML, CSS, SQL  
+- **Frameworks & Tools:** ReactJS, NodeJS, MongoDB (Mongoose), MySQL, Oracle 11g, GitHub, VS Code  
+- **Certifications:** Frontend & Backend Web Development (Coding Ninjas – Excellence Certificate)
+
+---
+
+### 💼 Experience
+
+**Software Developer Intern @ Bluestock Fintech (2024)**  
+- Developed and tested features for internal applications  
+- Collaborated on code reviews and debugging sessions  
+- Managed version control and streamlined updates  
+
+---
+
+### 📌 Projects
+
+- **🛒 E-commerce App (2025):** Flipkart-inspired web app with interactive UI and backend enhancements  
+- **🎵 Music Player (2025):** Responsive music player with API integration for seamless playback  
+- **🎫 Ticket Booking App (2026):** Secure railway ticket booking platform with anti-cheating features  
+
+---
+
+### 🎓 Education
+
+- **B.Tech in Computer Science & Engineering** – Graphic Era University (2019–2023) | Aggregate: 82.1%  
+- CBSE Class XII – K.V Upper Camp, Dehradun | 71.6%  
+- CBSE Class X – K.V Upper Camp, Dehradun | 87.4%
+
+---
+
+### 🌐 Connect With Me
+
+- 📧 Email: [anuragnegi6088@gmail.com](mailto:anuragnegi6088@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/anurag-negi-63a0b4202](https://www.linkedin.com/in/anurag-negi-63a0b4202/)  
+- 📍 Location: Dehradun, Uttarakhand
+
+---
+
+<p align="center">
+  <em>"Code. Learn. Build. Repeat."</em>
+</p>
