@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate Full-Stack Developer with hands-on experience in building scalable web applications using **JavaScript, ReactJS, NodeJS, MongoDB, and SQL**.  
+I'm a passionate Full-Stack Developer with hands-on experience in building scalable web applications using **JavaScript, ReactJS, NodeJS and MongoDB  
 I enjoy solving real-world problems through code and continuously expanding my knowledge in **data science** and **AI**.  
 Currently seeking opportunities to contribute to impactful projects and grow professionally.
 
